@@ -1,0 +1,55 @@
+.jumbotron {
+	width:100%;
+	height:900px;
+	background-image: url('haulcap_background copy.jpg');
+	  background-repeat: none;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  color: white;
+  	display: block;
+	background-color: black;
+	padding: 18px;
+/*	border: 3px solid white;*/
+}
+
+footer {
+	background-color: black;
+	margin-top: 200px;
+}
+
+button{
+	height: 70px;
+	width: 70px;
+	color:white;
+}
+
+.card {
+	height:450px;
+	margin-left: 40px
+}
+
+
+.navbar {
+border: 1px solid;
+border-color: lightgrey;
+}
+
+
+
+element.style {
+}
+_background-variant.scss:5
+.bg-light {
+    background-color: red!important;
+}
+
+body {
+	background-color: #f5f5f5;
+}
+
+
